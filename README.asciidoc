@@ -1,5 +1,7 @@
 = kitty - the fast, feature-rich, cross-platform, GPU based terminal
 
+THIS FORK NO USE SYSTEMD
+
 If you live in the terminal, *kitty* is made for **you**!
 
 See https://sw.kovidgoyal.net/kitty/[the kitty website].
